@@ -1,0 +1,180 @@
+body{
+  background-color: #4B0082;
+  margin: 0 auto;
+  padding: 0 auto;
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+#header{
+  background-color: #4B0082;
+  height: 100px;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 70px;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+
+  background-repeat: no-repeat;
+  background-size: 140px;
+}
+
+#contenedor{
+background-color: #4B0082;
+  width: 1600px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+.caixes{
+  width: 300px;
+  height: 300px;
+  margin: 45px;
+  border-radius: 50%;
+  float:left;
+  background-size: contain;
+  border: 5px #FFFFFF solid;
+
+
+}
+
+.numero{
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  border-radius: 50%;
+font-family: 'ZCOOL KuaiLe', cursive;  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50px;
+  border: 2px #343434 solid;
+  margin: 10px;
+}
+
+.caixestext{
+  margin-top: 240px;
+  text-align: center;
+font-family: 'ZCOOL KuaiLe', cursive;  font-size: 25px;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+}
+#uno{
+  background-image: url(MOS1.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+    background-size: cover;
+}
+
+#dos{
+  background-image: url(MOS2.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+    background-size: cover;
+}
+
+#tres{
+  background-image: url(MOS3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#cuatro{
+  background-image: url(MOS4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#cinco{
+  background-image: url(noticia.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#seis{
+  background-image: url(proteccio.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#siete{
+  background-image: url(formulario3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#ocho{
+  background-image: url(feedly.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#nueve{
+  background-image: url(BENDER.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#diez{
+  background-image: url(CORAZON.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#once{
+  background-image: url(paisatge.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#doce{
+  background-image: url(cara.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+#trece{
+  background-image: url(responsivO.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#catorce{
+  background-image: url(float.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#quinze{
+  background-image: url(HORARI.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+.caixes:hover{
+  opacity: 50%;
+}
+
+h2{
+  margin-left: 10px;
+}
+
+p{
+  margin: 10px;
+  line-height: 22px;
+  text-align: justify;
+  background-color: white;
+}
